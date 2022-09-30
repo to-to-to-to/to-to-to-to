@@ -1,5 +1,5 @@
 # About me
-Vito Rihaldijiran is a Computer Engineering Graduate from Sepuluh Nopember Institute of Technology (ITS). He is very passionate about Data Science. He has some work experience in Data. Currently, he works at Bukalapak as a Business Intelligence Analyst at Financial & Digital Tribe. He likes all the research fields in Data but Natural Language Processing the most. In the future, He aspires to create technology for better welfare through Data.
+Vito Rihaldijiran is a Computer Engineering Graduate from Sepuluh Nopember Institute of Technology (ITS). He is very passionate about Data Science. He has some work experience in Data. Currently, he works at Bukalapak as a Data Scientist & BI Analyst at Financial & Digital Tribe. He likes all the research fields in Data but Natural Language Processing the most. In the future, He aspires to create technology for better welfare through Data.
 
 ### Current Stacks That I Use The Most
 [<img align="left" alt="Scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"/>](https://scikit-learn.org/stable/)
