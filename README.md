@@ -1,5 +1,5 @@
 # About me
-Vito Rihaldijiran is a Computer Engineering Graduate from Sepuluh Nopember Institute of Technology (ITS). He is very passionate about Data Science. He has some work experience in Data. Currently, he works at Bukalapak as a BI Analyst at Financial & Digital Tribe. He likes all the research fields in Data but Natural Language Processing the most. In the future, He aspires to create technology for better welfare through Data.
+Dynamic and experienced data scientist with a strong foundation in business intelligence and data analytics, currently pivoting to research-focused roles. Demonstrated expertise in leveraging neural networks and stochastic differential equations for crop-yield prediction at the ANU Biological Data Science Institute. Proven ability to translate complex data into actionable insights, with a background in mentoring, industry collaboration, and publishing in peer-reviewed journals. Committed to advancing knowledge at the intersection of data science and biological research, with a passion for integrating computational techniques to solve real-world problems.
 
 ### Current Stacks That I Use The Most
 [<img align="left" alt="Scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"/>](https://scikit-learn.org/stable/)
